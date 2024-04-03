@@ -13,7 +13,7 @@ class Pessoas:
         print(f"Seu novo sobrenome é {self.sobrenome}")
     def fazer_aniversario(self,data_aniversario):
         self.aniversario = data_aniversario
-        print(f"seu novo aniversario é {self.aniversario}")
+        print(f"seu aniversario é {self.aniversario}")
 
 pessoa1 = Pessoas("João","Carlos",20)
 pessoa1.fazer_aniversario("25 novembro de 1981")
