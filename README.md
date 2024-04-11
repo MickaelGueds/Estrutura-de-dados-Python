@@ -1,6 +1,6 @@
 # Estrutura de Dados em Python
 
-Este repositório contém exemplos e exercícios de estruturas de dados em Python, conforme ensinado em sala de aula pelo professor [Nome do Professor].
+Este repositório contém exemplos e exercícios de estruturas de dados em Python, conforme ensinado em sala de aula pelo professor Ailton.
 
 ## Objetivo
 
